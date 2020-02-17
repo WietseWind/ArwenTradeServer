@@ -1,0 +1,16 @@
+{
+  "tradeTimeout": 5,
+  "port": 9999,
+  "niko": {
+    "ip": "1.2.3.4",
+    "client": "SomeDevice",
+    "password": "SomeJWT",
+    "deviceName": "MyLamp"
+  },
+  "xrpl": {
+    "account": "r...",
+    "secret": "s...",
+    "issuer": "r...",
+    "currency": "ABC"
+  }
+}
